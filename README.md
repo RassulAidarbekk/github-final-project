@@ -1,4 +1,4 @@
-# Introduction to Git and GitHub
+# Intro to Git and GitHub
 
 This repository is my final project for the Introduction to Git and GitHub course.
 It demonstrates forking, cloning, branching, committing, merging, and pull requests.
