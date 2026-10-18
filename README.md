@@ -1,16 +1,10 @@
 # Introduction to Git and GitHub
 
-## Simple Interest Calculator
+This repository is my final project for the Introduction to Git and GitHub course.
+It demonstrates forking, cloning, branching, committing, merging, and pull requests.
 
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
-
-```
-Input:
-   p, principal amount
-   t, time period in years
-   r, annual rate of interest
-Output
-   simple interest = p*t*r
-```
-
-_© 2022 XYZ, Inc._
+## Contents
+- LICENSE: Apache 2.0
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
+- simple-interest.sh: a Bash simple interest calculator
